@@ -63,3 +63,8 @@
 *.vsidx
 *.vsix
 *.db
+*.py
+*.pyc
+*.zip
+out/
+*_extracted/
