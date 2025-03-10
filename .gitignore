@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+*.ipch
+.vs/
+*.vsidx
+*.vsix
+*.db
+*.py
+*.pyc
+*.zip
+out/
+*_extracted/

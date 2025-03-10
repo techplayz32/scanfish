@@ -58,13 +58,3 @@
 *.rtf   diff=astextplain
 *.RTF   diff=astextplain
 *.ipch  filter=lfs diff=lfs merge=lfs -text
-
-.vs/
-*.vsidx
-*.vsix
-*.db
-*.py
-*.pyc
-*.zip
-out/
-*_extracted/
