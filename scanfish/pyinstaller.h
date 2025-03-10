@@ -7,6 +7,8 @@
 #include <cstdlib>
 #include <string>
 #include <cstdio>
+#include <filesystem>
+#include <regex>
 
 extern void extractPyinstaller();
 
